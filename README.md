@@ -21,3 +21,7 @@ View Content：
 Suspension trigger：
 ![image](https://github.com/user-attachments/assets/084a0e7b-9633-4ba0-8fd2-b8b76f1b50cc)
 
+Log out: Return to the lobby：
+![image](https://github.com/user-attachments/assets/467bdb86-337e-4f44-8b63-be57b36a84c0)
+![image](https://github.com/user-attachments/assets/122dc9c2-049f-4898-96f0-e86005630529)
+
